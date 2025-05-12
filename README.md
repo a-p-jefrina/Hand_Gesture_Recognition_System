@@ -11,9 +11,6 @@ A custom dataset of hand gesture images is prepared, comprising approximately 81
   ### Training Dataset
   ![val_batch0_labels](https://github.com/user-attachments/assets/67366368-ad31-420f-ae44-15509dd79628)
 
-  ### Gesture Recognition
-  ![image](https://github.com/user-attachments/assets/9067bb7a-26b0-4a2c-a850-5229db2033f8)
-
   ### Metrics
   ![image](https://github.com/user-attachments/assets/da021740-bbea-40d3-8769-0c19f0de54e8)
 
